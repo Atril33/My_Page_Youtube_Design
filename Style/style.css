@@ -84,15 +84,22 @@ h1 {
     background: #f9f9f9;
     padding: 12px 12px;
     border-radius: 50%;
+    cursor: pointer;
 }
 .img_icons {
     width: auto;
     height: 60px;
-    margin: 0px 20px 0px 230px;
+    margin: 0px 10px 0px 230px;
     display: flex;
     align-items: center;
 }
 .img_icons img {
     width: 20px;
     margin: 0px 10px;
+    cursor: pointer;
+}
+.mypro_img img {
+    width: 35px;
+    border-radius: 50%;
+    cursor: pointer;
 }
