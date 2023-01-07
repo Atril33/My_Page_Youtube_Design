@@ -103,3 +103,16 @@ h1 {
     border-radius: 50%;
     cursor: pointer;
 }
+.full_body {
+    width: 100%;
+    height: auto;
+    padding: 30px 130px;
+    display: flex;
+    justify-content: center;
+}
+.vide_at {
+    width: auto;
+    height: 340px;
+    margin-top: 60px;
+
+}
