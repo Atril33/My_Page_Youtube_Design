@@ -49,14 +49,14 @@ h1 {
     cursor: pointer;
 }
 .barr_search {
-    width: 50%;
+    width: 45%;
     margin: 0px 5px;
     height: auto;
     text-align: center;
     justify-content: center;
     display: flex;
     align-items: center;
-    margin: 0px 10px 0px 100px;
+    margin: 0px 10px 0px 130px;
 }
 #input {
     width: 100%;
@@ -84,4 +84,15 @@ h1 {
     background: #f9f9f9;
     padding: 12px 12px;
     border-radius: 50%;
+}
+.img_icons {
+    width: auto;
+    height: 60px;
+    margin: 0px 20px 0px 230px;
+    display: flex;
+    align-items: center;
+}
+.img_icons img {
+    width: 20px;
+    margin: 0px 10px;
 }
