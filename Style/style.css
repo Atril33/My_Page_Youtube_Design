@@ -116,3 +116,26 @@ h1 {
     margin-top: 60px;
 
 }
+.vertical_bar {
+    width: 300px;
+    height: 100px;
+    background: blue;
+}
+ul {
+    margin-top: 60px;
+    right: 0;
+    position: absolute;
+    display: inline-block;
+}
+ul li {
+    list-style: none;
+    
+    
+}
+li img {
+    width: 150px;
+    height: 100px;
+    padding: 20px 20px;
+    background: #ffffff;
+    
+}
